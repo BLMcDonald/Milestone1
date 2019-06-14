@@ -1,0 +1,36 @@
+.navbar {
+    border:none;
+}
+
+#home {
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-image: url('./assets/band-assets/images/monkees.jpg');
+    background-size: cover;
+    height: 720px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #ffffff;
+    opacity: .5;
+}
+
+#music {
+    background-color: #D3D3D3;
+}
+
+.media {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.mr-3 {
+    width: 88px;
+    height: 88px;
+}
+
+#social {
+    background-color: #D3D3D3;
+}
